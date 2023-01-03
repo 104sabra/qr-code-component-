@@ -56,19 +56,3 @@ main {
     font-weight: 400;
     color: hsl(220, 15%, 55%);
 }
-
-@media screen and (max-width: 23.438rem) {
-    body {
-        min-height: 50vh;
-    }
-
-    main {
-        max-width: 10rem;
-    }
-
-    .qr-code-and-text {
-        padding: 0.625rem;
-        border-radius: 0.813rem;
-        margin-top: 5rem;
-    }
-}
